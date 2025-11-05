@@ -1,7 +1,7 @@
 # GitHub-Intro
 
 ## Quick references
-[Author ](#Author)| [Description](#Description) | [My favourite university subjects](#My-favourite-university-subjects) | [Online VS Offline studying](#Online-VS-Offline-studying) | [My favourite mathematical formulas](#My-favourite-mathematical-formulas) | [My coding skills](#My-coding-skills) | [The image I like](#The-image-I-like)
+[Author ](#Author)| [Description](#Description) | [My favourite university subjects](#My-favourite-university-subjects-) | [Online VS Offline studying](#Online--Offline-studying) | [My favourite mathematical formulas](#My-favourite-mathematical-formulas-) | [My coding skills](#My-coding-skills-) | [The image I like](#The-image-I-like-)
 
 ## Author
 * **Name**: *Illia Kabakov*
@@ -71,7 +71,7 @@ In this example the `main()` function is the key to print the "Hello, GitHub!" m
 
 Use [C++ Schell](https://cpp.sh/) to check the code out.
 
-## The image I like 🖼️
+## The image I like 😍
 
 Here is the image I like: it represents the power and beauty of nature illustrating the spectacular view of mountain range
 
